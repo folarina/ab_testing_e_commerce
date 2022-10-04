@@ -1,1 +1,5 @@
-# ab_testing_e_commerce
+# A/B Testing - E-Commerce
+
+### Objective 
+
+The objective of this project is to demonstrate my A/B testing abilities with a public dataset. For this project, I will be working to understand the results of an A/B test run by an e-commerce website. My goal is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
